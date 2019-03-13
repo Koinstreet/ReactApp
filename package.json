@@ -2,6 +2,7 @@
   "name": "fun-food-friends",
   "version": "0.1.0",
   "private": true,
+  "license": "SEE LICENSE IN <filename>",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
@@ -21,5 +22,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "firebase": "^5.8.6"
+  }
 }
